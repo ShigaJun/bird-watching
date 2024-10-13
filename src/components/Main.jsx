@@ -1,6 +1,5 @@
-import Sidebar from "./Sidebar";
-import Gallery from "./Sidebar";
 import Welcome from "./Welcome";
+import Sidebar from "./Sidebar";
 
 export default function Main() {
   return (
